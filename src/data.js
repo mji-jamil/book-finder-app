@@ -73,9 +73,9 @@ export const bookList = [
     },
     {
         id: 10,
-        name: 'Dark Souls',
-        author: 'Future Press',
-        image: 'https://m.media-amazon.com/images/I/61gJ7M1uL+L._SY466_.jpg',
+        name: 'Cold Victory',
+        author: 'Karl Marlantes',
+        image: 'https://m.media-amazon.com/images/I/71L8UTKtD1L._SY466_.jpg',
         price: '$30',
         publicationYear: 2007,
     },
@@ -84,69 +84,69 @@ export const bookList = [
         name: 'Holmes, Marple & Poe',
         author: 'James Patterson',
         image: 'https://m.media-amazon.com/images/I/81FaWj+mZEL._SY425_.jpg',
-        publicationYear: 2000
+        publicationYear: 2000,
     },
     {
         id: 12,
         name: 'Brown Bear',
         author: 'Bill Martin Jr',
         image: 'https://m.media-amazon.com/images/I/81kZ3Gl3WKL._SY425_.jpg',
-        publicationYear: 1996
+        publicationYear: 1996,
     },
     {
         id: 13,
         name: 'The Miracle Morning',
         author: 'Hal Elrod',
         image: 'https://m.media-amazon.com/images/I/81p7O-Kk0WL._SY425_.jpg',
-        publicationYear: 2001
+        publicationYear: 2001,
     },
     {
         id: 14,
         name: 'Bad Luck and Trouble',
         author: 'Lee Child',
         image: 'https://m.media-amazon.com/images/I/81ELgP1g3vL._SY425_.jpg',
-        publicationYear: 2009
+        publicationYear: 2009,
     },
     {
         id: 15,
         name: 'Lessons in Chemistry',
         author: 'Bonnie Garmus',
         image: 'https://m.media-amazon.com/images/I/71dQACXhz6L._SY466_.jpg',
-        publicationYear: 2023
+        publicationYear: 2023,
     },
     {
         id: 16,
         name: 'Argylle: A Novel',
         author: 'Elly Conway',
         image: 'https://m.media-amazon.com/images/I/81427tdUuYL._SY425_.jpg',
-        publicationYear: 2024
+        publicationYear: 2024,
     },
     {
         id: 17,
         name: 'Masters of the Air',
         author: 'Donald L. Miller',
         image: 'https://m.media-amazon.com/images/I/713kehU6YML._SY425_.jpg',
-        publicationYear: 2007
+        publicationYear: 2007,
     },
     {
         id: 18,
         name: 'The Bad Guys',
         author: 'Ms. Kate Howard',
         image: 'https://m.media-amazon.com/images/I/81U2lV70u1L._SY425_.jpg',
-        publicationYear: 2015
+        publicationYear: 2015,
     },
     {
         id: 19,
         name: "Five Nights at Freddy's",
         author: 'Scott Cawthon',
         image: 'https://m.media-amazon.com/images/I/81kB955wwcL._SY425_.jpg',
-        publicationYear: 2010
+        publicationYear: 2010,
     },
     {
         id: 20,
         name: 'Enzo Ferrari',
         author: 'Luca Dal Monte',
         image: 'https://m.media-amazon.com/images/I/91iIKfq7F0L._SY425_.jpg',
-        publicationYear: 2018
-    }
+        publicationYear: 2018,
+    },
 ];
