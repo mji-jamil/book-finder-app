@@ -73,9 +73,9 @@ export const bookList = [
     },
     {
         id: 10,
-        name: 'Enzo Ferrari',
-        author: 'Brock Yates',
-        image: 'https://m.media-amazon.com/images/I/817BsaQ8eML._SY466_.jpg',
+        name: 'Dark Souls',
+        author: 'Future Press',
+        image: 'https://m.media-amazon.com/images/I/61gJ7M1uL+L._SY466_.jpg',
         price: '$30',
         publicationYear: 2007,
     },
@@ -109,9 +109,9 @@ export const bookList = [
     },
     {
         id: 15,
-        name: 'Enzo Ferrari',
-        author: 'Brock Yates',
-        image: 'https://m.media-amazon.com/images/I/817BsaQ8eML._SY425_.jpg',
+        name: 'Lessons in Chemistry',
+        author: 'Bonnie Garmus',
+        image: 'https://m.media-amazon.com/images/I/71dQACXhz6L._SY466_.jpg',
         publicationYear: 2023
     },
     {
