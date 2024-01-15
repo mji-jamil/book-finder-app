@@ -84,6 +84,7 @@ export const bookList = [
         name: 'Holmes, Marple & Poe',
         author: 'James Patterson',
         image: 'https://m.media-amazon.com/images/I/81FaWj+mZEL._SY425_.jpg',
+        price: '$15',
         publicationYear: 2000,
     },
     {
@@ -91,6 +92,7 @@ export const bookList = [
         name: 'Brown Bear',
         author: 'Bill Martin Jr',
         image: 'https://m.media-amazon.com/images/I/81kZ3Gl3WKL._SY425_.jpg',
+        price: '$18',
         publicationYear: 1996,
     },
     {
@@ -98,6 +100,7 @@ export const bookList = [
         name: 'The Miracle Morning',
         author: 'Hal Elrod',
         image: 'https://m.media-amazon.com/images/I/81p7O-Kk0WL._SY425_.jpg',
+        price: '$21.78',
         publicationYear: 2001,
     },
     {
@@ -105,6 +108,7 @@ export const bookList = [
         name: 'Bad Luck and Trouble',
         author: 'Lee Child',
         image: 'https://m.media-amazon.com/images/I/81ELgP1g3vL._SY425_.jpg',
+        price: '$29.99',
         publicationYear: 2009,
     },
     {
@@ -112,6 +116,7 @@ export const bookList = [
         name: 'Lessons in Chemistry',
         author: 'Bonnie Garmus',
         image: 'https://m.media-amazon.com/images/I/71dQACXhz6L._SY466_.jpg',
+        price: '$35',
         publicationYear: 2023,
     },
     {
@@ -119,6 +124,7 @@ export const bookList = [
         name: 'Argylle: A Novel',
         author: 'Elly Conway',
         image: 'https://m.media-amazon.com/images/I/81427tdUuYL._SY425_.jpg',
+        price: '$39',
         publicationYear: 2024,
     },
     {
@@ -126,6 +132,7 @@ export const bookList = [
         name: 'Masters of the Air',
         author: 'Donald L. Miller',
         image: 'https://m.media-amazon.com/images/I/713kehU6YML._SY425_.jpg',
+        price: '$22.50',
         publicationYear: 2007,
     },
     {
@@ -133,6 +140,7 @@ export const bookList = [
         name: 'The Bad Guys',
         author: 'Ms. Kate Howard',
         image: 'https://m.media-amazon.com/images/I/81U2lV70u1L._SY425_.jpg',
+        price: '$9.99',
         publicationYear: 2015,
     },
     {
@@ -140,6 +148,7 @@ export const bookList = [
         name: "Five Nights at Freddy's",
         author: 'Scott Cawthon',
         image: 'https://m.media-amazon.com/images/I/81kB955wwcL._SY425_.jpg',
+        price: '$5.55',
         publicationYear: 2010,
     },
     {
@@ -147,6 +156,7 @@ export const bookList = [
         name: 'Enzo Ferrari',
         author: 'Luca Dal Monte',
         image: 'https://m.media-amazon.com/images/I/91iIKfq7F0L._SY425_.jpg',
+        price: '$11.11',
         publicationYear: 2018,
     },
 ];
